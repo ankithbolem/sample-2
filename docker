@@ -1,0 +1,6 @@
+ <p className="text-center">No items yet! Add one above!</p>
+ +                <p className="text-center">You have no todo items yet! Add one above!</p>
+ 
+  docker build -t getting-started .
+  
+  docker run -dp 3000:3000 getting-started
