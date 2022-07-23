@@ -1,0 +1,7 @@
+<!-- skip unit test -->
+	<profile>
+		<id>xtest</id>
+		<properties>
+			<maven.test.skip>true</maven.test.skip>
+		</properties>
+	</profile>
